@@ -1,7 +1,0 @@
-INFO: 2025/03/31 16:23:34 main.go:48: Checked url: https://www.google.com, Status: 200
-INFO: 2025/03/31 16:23:36 main.go:48: Checked url: https://www.google.com, Status: 200
-INFO: 2025/03/31 16:23:38 main.go:48: Checked url: https://www.google.com, Status: 200
-INFO: 2025/03/31 16:23:40 main.go:48: Checked url: https://www.google.com, Status: 200
-INFO: 2025/03/31 16:23:42 main.go:48: Checked url: https://www.google.com, Status: 200
-INFO: 2025/03/31 16:23:44 main.go:48: Checked url: https://www.google.com, Status: 200
-INFO: 2025/03/31 16:23:46 main.go:48: Checked url: https://www.google.com, Status: 200
